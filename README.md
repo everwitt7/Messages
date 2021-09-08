@@ -4,4 +4,4 @@ I have ideas that come to me out of the blue, when that happens I like to text m
 I am creating a notebook to explore how to access my text messages, query only my messages after a certain date, then output those messages into a .txt file where I can double click on each message and either delete or move/rephrase it to a less disorganized location.
 
 ## Credit
-[This](https://towardsdatascience.com/heres-how-you-can-access-your-entire-imessage-history-on-your-mac-f8878276c6e9) medium article helped explain how to access IMessages on my local and how to extract the datetime object correctly
+[This medium article](https://towardsdatascience.com/heres-how-you-can-access-your-entire-imessage-history-on-your-mac-f8878276c6e9) helped explain how to access IMessages on my local and how to extract the datetime object correctly
